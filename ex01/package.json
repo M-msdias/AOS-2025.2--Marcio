@@ -1,0 +1,28 @@
+{
+  "name": "aos-2025.2--marcio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M-msdias/AOS-2025.2--Marcio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/M-msdias/AOS-2025.2--Marcio/issues"
+  },
+  "homepage": "https://github.com/M-msdias/AOS-2025.2--Marcio#readme",
+  "dependencies": {
+    "@babel/core": "^7.28.3",
+    "@babel/node": "^7.28.0",
+    "@babel/preset-env": "^7.28.3",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
